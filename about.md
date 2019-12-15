@@ -1,5 +1,6 @@
 ---
 title: About
+author: Oatmeal
 ---
 
 #About this project
