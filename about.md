@@ -1,6 +1,6 @@
 ---
 title: About
-author: Oatmeal
+Author: Me
 ---
 
 #About this project
