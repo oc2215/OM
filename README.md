@@ -5,19 +5,19 @@ Over 22 years of public service as soldier, educator, at non-profit industry, an
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Companies</th>
+    <th>Experiences</th>
+    <th>Years</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Dept of Education</td>
+    <td>Legal Firm</td>
+    <td>Non Profit</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>2014</td>
+    <td>2016</td>
+    <td>2001</td>
   </tr>
 </table>
 
