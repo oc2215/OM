@@ -1,24 +1,11 @@
-Youtube Videos | Translations | Wiki | Contact Info
-### ABOUT ME 
+Lesson Plans | Translations | Contact Info
+### OMIL CARRASQUILLO 
 
-Over 22 years of public service as soldier, educator, at non-profit industry, and with the federal government. Experiences have included management, data collection and analysis, public speaking, providing instruction and translation. 
+My professional background includes instruction in reading with diverse populations, including bilingual and dual language, elementary (K-5), staff facilitator, and workshops for staff and parents. 
 
-<table style="width:100%">
-  <tr>
-    <th>Companies</th>
-    <th>Experiences</th>
-    <th>Years</th>
-  </tr>
-  <tr>
-    <td>Dept of Education</td>
-    <td>Legal Firm</td>
-    <td>Non Profit</td>
-  </tr>
-  <tr>
-    <td>2014</td>
-    <td>2016</td>
-    <td>2001</td>
-  </tr>
-</table>
+In each of the experiences above, the focus has included, vocabulary development, literacy skills, critical reading, and code switching for text comprehension (bilingual students). The goal, across content areas, was to develop higher level skills by teaching the student to become familiarized with the text (text features & author), summarizing the context, reacting to the text, etc. 
+
+
+
 
 
