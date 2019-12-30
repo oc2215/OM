@@ -1,0 +1,23 @@
+{
+  "name": "OM",
+  "version": "1.0.0",
+  "description": "Lesson Plans | Resume | Contact Info ### OM CARRASQUILLO",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oc2215/OM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oc2215/OM/issues"
+  },
+  "homepage": "https://github.com/oc2215/OM#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
