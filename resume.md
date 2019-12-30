@@ -1,3 +1,8 @@
+layout: page
+title: "PAGE TITLE"
+permalink:
+
+
 <h1><strong>Experience Highlights</strong></h1>
 
 <strong>Teacher</strong>
