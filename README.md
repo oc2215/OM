@@ -1,4 +1,4 @@
-Lesson Plans | Resume | Contact Info
+[Lesson Plans](https://github.com/oc2215/OM/blob/master/EDU%20Resume.pdf) | Resume | Contact Info
 ### OM CARRASQUILLO 
 
 My professional background includes instruction in reading with diverse populations, including bilingual and dual language, elementary (K-5), staff facilitator, and workshops for staff and parents. 
