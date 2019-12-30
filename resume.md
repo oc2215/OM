@@ -1,8 +1,7 @@
-_____________
 layout: page
-title: "PAGE TITLE"
-permalink:https://oc2215.github.io/resume/
-_____________
+title: "RESUME"
+permalink:https://github.com/oc2215/OM/resume
+
 
 <h1><strong>Experience Highlights</strong></h1>
 
