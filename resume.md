@@ -1,1 +1,1 @@
-![alt text][EDU resume.md]
+![alt text][EDU resume.pdf]
