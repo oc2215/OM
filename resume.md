@@ -1,6 +1,3 @@
-layout: page
-title: "RESUME"
-permalink: /https://github.com/oc2215/OM/resume/
 
 
 
