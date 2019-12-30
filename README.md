@@ -1,4 +1,4 @@
-[Resume](https://github.com/oc2215/OM/blob/master/resume) | Lesson Plans | Contact Info
+[Resume](https://oc2215.github.io/resume/) | Lesson Plans | Contact Info
 ### OM CARRASQUILLO 
 
 My professional background includes instruction in reading with diverse populations, including bilingual and dual language, elementary (K-5), staff facilitator, and workshops for staff and parents. 
